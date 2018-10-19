@@ -1,0 +1,3 @@
+ERROR (file ../../../platforms/Cross/plugins/B3DAcceleratorPlugin/sqOpenGLRenderer.c, line 395): a GL function failed -- GL_INVALID_VALUE
+ERROR (file ../../../platforms/Win32/plugins/B3DAcceleratorPlugin/sqWin32OpenGL.c, line 649): a GL function failed -- GL_INVALID_OPERATION
+ERROR (file ../../../platforms/Win32/plugins/B3DAcceleratorPlugin/sqWin32OpenGL.c, line 649): a GL function failed -- GL_INVALID_OPERATION
